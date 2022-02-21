@@ -5,6 +5,7 @@
     margin-right: 20%;
     margin-left: 20%;
     margin-top: 2%;
+    position: fixed;
 
 }
 
@@ -30,7 +31,7 @@ header {
 }
 
 .level-adsense {
-    /*display: inline-block;*/
+    display: inline-block;
     border: 2px solid red;
     height: 500px;
     float: right;
