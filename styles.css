@@ -1,12 +1,11 @@
 #carouselExampleDark {
-    /*display: inline-block;*/
+    display: block;
     border: 2px solid black;
     height: 400px;
     margin-right: 20%;
     margin-left: 20%;
     margin-top: 2%;
     position: fixed;
-
 }
 
 .carousel-item, .w-100 {
@@ -26,7 +25,7 @@ header {
     height: 500px;
     float: left;
     width: 225px;
-    margin-left: 2px;
+    margin-left: 10px;
     margin-top: 2px;
 }
 
@@ -34,12 +33,11 @@ header {
     display: inline-block;
     border: 2px solid red;
     height: 500px;
-    float: right;
+    float: left;
     width: 225px;
-    margin-right: 2px;
+    /*margin-right: 2px;*/
     margin-top: 2px;
     position: relative;
-    top: 2px;
-    margin-left: 200px;
+    margin-left: 755px;
 
 }
